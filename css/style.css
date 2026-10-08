@@ -52,7 +52,7 @@ h3 {
 }
 
 h1 {
-  margin: 50px auto;
+  margin: 0px auto;
 }
 
 p {
@@ -146,6 +146,7 @@ a {
 
 .presentation h1 {
   font-size: 56px;
+  margin: 50px auto;
 }
 
 .metier {
