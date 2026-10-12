@@ -163,7 +163,7 @@ Providing a separate Skills page.
 Improving navigation between all five pages.
 Completing the contact form with appropriate field types, labels, and required attributes.
 
-Figma Design: [Insert your Figma link]
+Figma Design: https://www.figma.com/design/YEjqXWx
 
 Features
 Five interconnected HTML pages.
@@ -355,4 +355,4 @@ Ayoub Kourdini
 
 GitHub: @ayoubkourdini
 Repository: starter-portfolio
-Figma Design: []
+Figma Design: https://www.figma.com/design/YEjqXWx
